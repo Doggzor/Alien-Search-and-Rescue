@@ -1,0 +1,15 @@
+﻿gfx.PutPixel(0 + x, 0 + y, 83, 111, 57);
+gfx.PutPixel(1 + x, 0 + y, 161, 238, 114);
+gfx.PutPixel(2 + x, 0 + y, 81, 111, 56);
+gfx.PutPixel(0 + x, 1 + y, 57, 77, 45);
+gfx.PutPixel(1 + x, 1 + y, 173, 255, 112);
+gfx.PutPixel(2 + x, 1 + y, 53, 73, 48);
+gfx.PutPixel(0 + x, 2 + y, 45, 63, 34);
+gfx.PutPixel(1 + x, 2 + y, 175, 255, 119);
+gfx.PutPixel(2 + x, 2 + y, 39, 55, 28);
+gfx.PutPixel(0 + x, 3 + y, 62, 97, 40);
+gfx.PutPixel(1 + x, 3 + y, 166, 251, 113);
+gfx.PutPixel(2 + x, 3 + y, 68, 105, 44);
+gfx.PutPixel(0 + x, 4 + y, 50, 73, 36);
+gfx.PutPixel(1 + x, 4 + y, 110, 161, 78);
+gfx.PutPixel(2 + x, 4 + y, 52, 78, 36);
